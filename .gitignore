@@ -1,0 +1,15 @@
+# build
+out
+dist
+
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+.env
+PROJECT_TODOS.md
+
+# packaged
+*.vsix
+.vscode-test/
